@@ -7,7 +7,7 @@ Run two processes:
 
 ## Requirements
 - Intended to run on osx or linux (including rapsberry pi)
-- Intended to work with any video capture device, including built-in webcams, external webcams, and capture enabled cameras
+- Intended to work with any video capture device, including built-in webcams, external webcams, and enabled cameras (e.g. certain video cameras, or [CamLink](https://www.elgato.com/en/gaming/cam-link-4k)ed cameras)
 - Requires python 3 with open cv 2 installed (`pip3 install cv2`)
 - Requires aws cli (see s3 configuration section)
 
